@@ -26,7 +26,7 @@ const Book = () => {
 
 const Image = () => (
   <img
-    src='https://images-na.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/713F+ivM9NL._AC_UL300_SR300,200_.jpg'
+    src='./images/book-1.jpg'
     alt='Saved'
   />
 );
